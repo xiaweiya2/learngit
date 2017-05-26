@@ -3,3 +3,4 @@ Git is free software.
 I love Git.
 Git has a mutable index called stage.
 Creating a new branch is quick & simple.
+commit a new request.
